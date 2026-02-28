@@ -1,0 +1,5 @@
+{
+  "framework": "next",
+  "buildCommand": "next build",
+  "outputDirectory": ".next"
+}
